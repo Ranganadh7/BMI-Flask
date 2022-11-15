@@ -66,4 +66,5 @@ tzdata==2022.5
 urllib3==1.26.12
 virtualenv==20.16.6
 wcwidth==0.2.5
+
 Werkzeug==2.2.2
